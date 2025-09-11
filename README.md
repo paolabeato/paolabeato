@@ -33,19 +33,6 @@ I specialize in **validated SAS workflows, rigorous data management, and advance
 
 ## 📂 Featured Projects
 
-### 🧬 [Breast Cancer Prognostic Index Evaluation](https://github.com/paolabeato/breast-cancer-ivd)
-
-**Objective:** End-to-end survival modeling pipeline to evaluate a composite IVD index for 5-year DFS in simulated breast cancer cohort (n=494).\
-**Key Features:**\
-- Constructed **Cox-based composite index**; assessed discrimination/calibration.\
-- Performed **time-dependent ROC, C-index, Brier score**.\
-- Conducted **sensitivity/specificity analysis** at median cutoffs.\
-- Evaluated reproducibility via **mixed-effects models and Bland–Altman plots**.\
-- Published as an **open-source project with reproducible Quarto report via GitHub Pages.**\
-**Tools:** R, survival, riskRegression, timeROC, lme4, Quarto
-
-------------------------------------------------------------------------
-
 ### 📊 [Visit Tracker Macro](https://github.com/paolabeato/visit-tracker)
 
 **Objective:** Developed a generalized SAS macro (`%visit_tracker`) to automate operational monitoring of participant visit schedules.\
@@ -67,7 +54,6 @@ I specialize in **validated SAS workflows, rigorous data management, and advance
 - Compared **Logistic Regression, Random Forest, and Tuned RF**.\
 - Optimized with **5-fold cross-validation**; ROC AUC \> 0.85.\
 - Produced interpretable outputs (ROC curves, variable importance).\
-- Published as an **open-source project with reproducible Quarto report via GitHub Pages.**\
 **Tools:** R, tidymodels, ranger, ggplot2, Quarto
 
 ------------------------------------------------------------------------
