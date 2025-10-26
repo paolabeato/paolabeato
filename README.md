@@ -35,25 +35,25 @@ I specialize in **validated SAS workflows, rigorous data management, and advance
 
 ### 📊 [Visit Tracker Macro](https://github.com/paolabeato/visit-tracker)
 
-**Objective:** Developed a generalized SAS macro (`%visit_tracker`) to automate operational monitoring of participant visit schedules.\
+**Objective:** Developed a generalized SAS macro (`%visit_tracker`) to automate operational monitoring of participant visit schedules.
 **Key Features:**\
-- Parametric support for **interval-based** and **lookup-based** schedules.\
-- Applied **visit windows** (fixed, symmetric, lag) and greedy-matched actual vs expected.\
-- Produced **on-time/early/late/missed flags**, roll-ups, and pending lists.\
-- Created **synthetic demo datasets** for semiannual, dense early, weekly, and lookup schedules.\
-- Published as an **open-source project with reproducible HTML5 demo via GitHub Pages.**\
+- Parametric support for **interval-based** and **lookup-based** schedules.
+- Applied **visit windows** (fixed, symmetric, lag) and greedy-matched actual vs expected.
+- Produced **on-time/early/late/missed flags**, roll-ups, and pending lists.
+- Created **synthetic demo datasets** for semiannual, dense early, weekly, and lookup schedules.
+- Published as an **open-source project with reproducible HTML5 demo via GitHub Pages.**
 **Tools:** SAS (Base, Macro, SQL, ODS, SGPlot), GitHub Pages
 
 ------------------------------------------------------------------------
 
 ### 🧪 [HIV Risk Classification via Machine Learning](https://github.com/paolabeato/hivrisk-classifier)
 
-**Objective:** Built an end-to-end ML pipeline in R to classify HIV risk from simulated behavioral/demographic data (n=5,000).\
+**Objective:** Built an end-to-end ML pipeline in R to classify HIV risk from simulated behavioral/demographic data (n=5,000).
 **Key Features:**\
-- Preprocessing: dummy encoding, log transformation, normalization.\
-- Compared **Logistic Regression, Random Forest, and Tuned RF**.\
-- Optimized with **5-fold cross-validation**; ROC AUC \> 0.85.\
-- Produced interpretable outputs (ROC curves, variable importance).\
+- Preprocessing: dummy encoding, log transformation, normalization.
+- Compared **Logistic Regression, Random Forest, and Tuned RF**.
+- Optimized with **5-fold cross-validation**; ROC AUC \> 0.85.
+- Produced interpretable outputs (ROC curves, variable importance).
 **Tools:** R, tidymodels, ranger, ggplot2, Quarto
 
 ------------------------------------------------------------------------
