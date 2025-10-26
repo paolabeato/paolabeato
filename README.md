@@ -36,7 +36,7 @@ I specialize in **validated SAS workflows, rigorous data management, and advance
 ### 📊 [Visit Tracker Macro](https://github.com/paolabeato/visit-tracker)
 
 **Objective:** Developed a generalized SAS macro (`%visit_tracker`) to automate operational monitoring of participant visit schedules.
-**Key Features:**\
+**Key Features:**
 - Parametric support for **interval-based** and **lookup-based** schedules.
 - Applied **visit windows** (fixed, symmetric, lag) and greedy-matched actual vs expected.
 - Produced **on-time/early/late/missed flags**, roll-ups, and pending lists.
@@ -49,7 +49,7 @@ I specialize in **validated SAS workflows, rigorous data management, and advance
 ### 🧪 [HIV Risk Classification via Machine Learning](https://github.com/paolabeato/hivrisk-classifier)
 
 **Objective:** Built an end-to-end ML pipeline in R to classify HIV risk from simulated behavioral/demographic data (n=5,000).
-**Key Features:**\
+**Key Features:**
 - Preprocessing: dummy encoding, log transformation, normalization.
 - Compared **Logistic Regression, Random Forest, and Tuned RF**.
 - Optimized with **5-fold cross-validation**; ROC AUC \> 0.85.
